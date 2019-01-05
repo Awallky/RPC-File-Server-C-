@@ -1,0 +1,1 @@
+This file details how to build both the client and server binaries
